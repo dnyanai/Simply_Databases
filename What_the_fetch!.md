@@ -26,7 +26,7 @@ d. Bus - CPU is connected with the memory and I/O devices through stripes of wir
 <h4><u>Address Bus</u></h4>
 <li>Address bus is used to identify the devices and memory connected to the CPU, again more the merrier! i.e more address buses mean more number of devices can be addressed. In other words, the number of address buses for a CPU determines the number of locations with which it can communicate.</li> <br>
 <li>Number of locations = 2<sup>x</sup>, x: number of address lines regardless of the data bus.</li> <br>
- ![CPU internal org](img.png)
+ ![img.png](img.png)
 </p>
 
 
