@@ -9,6 +9,7 @@ b. ROM - contains permanent data i.e programs and information essential to opera
 a. CPU - process information stored in the memory, uses Buses to get information or send information to others. <br> 
 b. Memory <br>
 c. I/O devices - keyboard or mouse like devices, to provide means of communicating with the CPU. To be recognized by the CPU, it each I/O device should have an address (unique). <br>
-d. Bus - CPU is connected with the memory and I/O devices through stripes of wire called as bus. Carries information from place to place, 3 types: (i) Address Bus, (ii) Data Bus, (iii) Control Bus.
+d. Bus - CPU is connected with the memory and I/O devices through stripes of wire called as bus. Carries information from place to place, 
+3 types: <li>(i) Address Bus,</li> <li>(ii) Data Bus,</li> <li>(iii) Control Bus.</li>
 
 
