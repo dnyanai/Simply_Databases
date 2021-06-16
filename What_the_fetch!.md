@@ -10,6 +10,6 @@ a. CPU - process information stored in the memory, uses Buses to get information
 b. Memory <br>
 c. I/O devices - keyboard or mouse like devices, to provide means of communicating with the CPU. To be recognized by the CPU, it each I/O device should have an address (unique). <br>
 d. Bus - CPU is connected with the memory and I/O devices through stripes of wire called as bus. Carries information from place to place, 
-3 types: <ul>(i) Address Bus,</ul> <ul>(ii) Data Bus,</ul> <ul>(iii) Control Bus.</ul>
+   <br>3 types: <ul>(i) Address Bus,</ul> <ul>(ii) Data Bus,</ul> <ul>(iii) Control Bus.</ul>
 
 
